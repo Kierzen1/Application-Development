@@ -1,0 +1,22 @@
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise_9.Form1.resources
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise_9.Properties.Resources.resources
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.csproj.GenerateResource.cache
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\bin\Debug\Exercise 9.exe.config
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\bin\Debug\Exercise 9.exe
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\bin\Debug\Exercise 9.pdb
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.exe
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.pdb
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.csproj.AssemblyReference.cache
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.csproj.SuggestedBindingRedirects.cache
+Z:\XX322\Caranzo\Exercises\FINALS\Exercise 9\Exercise 9\obj\Debug\Exercise 9.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\bin\Debug\Animal_Kingdom.exe.config
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\bin\Debug\Animal_Kingdom.exe
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\bin\Debug\Animal_Kingdom.pdb
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Exercise 9.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Exercise 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Exercise_9.Form1.resources
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Animal_Kingdom.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Exercise 9.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Exercise 9.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Animal_Kingdom.exe
+C:\Users\pc\OneDrive\Documents\Projects\EXER 9\Exercise 9\obj\Debug\Animal_Kingdom.pdb

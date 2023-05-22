@@ -1,0 +1,22 @@
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.exe.config
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.exe
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.pdb
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.Form1.resources
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.exe
+C:\Users\pc\OneDrive\Documents\sample2(okay na ang update)\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.pdb
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.exe.config
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.exe
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\bin\Debug\AnimalProject_Booc.pdb
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.Form1.resources
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.exe
+C:\Users\pc\OneDrive\Documents\Projects\AnimalProject_Booc(CRUD 80_)-20230419T070606Z-001\AnimalProject_Booc(CRUD 80_)\AnimalProject_Booc\obj\Debug\AnimalProject_Booc.pdb
